@@ -1,0 +1,2 @@
+# beego-loggers
+ses,mailcatcher
